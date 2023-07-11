@@ -10,7 +10,8 @@
 <?php
 // include('./field1.php');
 // include('./persion.php');
-include('./employee.php');
+// include('./employee.php');
+include('./base.php');
 ?>
 </body>
 </html>
