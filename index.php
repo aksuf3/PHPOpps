@@ -13,7 +13,8 @@
 // include('./employee.php');
 // include('./base.php');
 // include('./overriding.php');
-include('./abstract.php');
+// include('./abstract.php');
+include('./interface.php');
 ?>
 </body>
 </html>
