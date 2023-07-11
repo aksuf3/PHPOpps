@@ -8,8 +8,9 @@
 <body>
 <h1>Hello Php</h1>
 <?php
-include('./field1.php');
-include('./persion.php');
+// include('./field1.php');
+// include('./persion.php');
+include('./employee.php');
 ?>
 </body>
 </html>
