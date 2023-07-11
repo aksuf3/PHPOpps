@@ -16,4 +16,6 @@ $test=new base();
 echo $test->calc(4,6)."<br>";
 $test1=new derived();
 echo $test1->calc(5,6);
+
+
 ?>
