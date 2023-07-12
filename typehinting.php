@@ -1,9 +1,20 @@
 <?php
-function fruits(array $names){
-    foreach($names as $name){
-echo $name. "<br>";
+class hello{
+    public function sayhello(){
+        echo "Hello everyone";
     }
 }
-$test=["Apple","Orange","Banana"];
-fruits($test);
+
+class bye{
+    public function saybe(){
+        echo "Bye evryone";
+    }
+}
+
+function wow(hello $c){
+    $c->sayhello();
+}
+$test=new bye();
+$test1=new hello();
+wow($test1);
 ?>
