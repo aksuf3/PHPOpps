@@ -17,7 +17,8 @@
 // include('./interface.php');
 // include('./static.php');
 // include('./latestatic.php');
-include('./traits.php');
+// include('./traits.php');
+include('./methodoverriding.php');
 ?>
 </body>
 </html>
