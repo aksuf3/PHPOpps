@@ -1,13 +1,15 @@
 <?php
-class base{
-public static $name="Yahoo Baba";
-public static function show(){
-    echo self::$name;
+class Base {
+    public static $name = "Yahoo Baba";
+
+    public static function show() {
+        echo self::$name;
+    }
 }
-public function __construct(){
-self::show();
+
+class Derived extends Base {
+    // No need to redefine the show() method in the Derived class
 }
-}
-echo base::$name;
-base::show();
+
+Derived::show();
 ?>
