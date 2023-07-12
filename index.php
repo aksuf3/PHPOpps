@@ -18,7 +18,8 @@
 // include('./static.php');
 // include('./latestatic.php');
 // include('./traits.php');
-include('./methodoverriding.php');
+// include('./methodoverriding.php');
+include('./typehinting.php');
 ?>
 </body>
 </html>
