@@ -15,7 +15,8 @@
 // include('./overriding.php');
 // include('./abstract.php');
 // include('./interface.php');
-include('./static.php');
+// include('./static.php');
+include('./latestatic.php');
 ?>
 </body>
 </html>
