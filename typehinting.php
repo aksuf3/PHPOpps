@@ -1,20 +1,26 @@
 <?php
-class hello{
-    public function sayhello(){
-        echo "Hello everyone";
+class School {
+    public function getNames($names) {
+        foreach ($names as $name) {
+            echo $name . "<br>";
+        }
     }
 }
 
-class bye{
-    public function saybe(){
-        echo "Bye evryone";
+class Student {
+    public function getNames() {
+        return ["Ram", "Krishna", "Gopal"];
     }
 }
 
-function wow(hello $c){
-    $c->sayhello();
+class library{
+    
 }
-$test=new bye();
-$test1=new hello();
-wow($test1);
+
+
+$stu = new Student();
+$sch = new School();
+$names = $stu->getNames();
+$sch->getNames($names);
+
 ?>
