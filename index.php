@@ -20,7 +20,8 @@
 // include('./traits.php');
 // include('./methodoverriding.php');
 // include('./typehinting.php');
-include('./13namespaces/main.php');
+// include('./13namespaces/main.php');
+include('./14methodchain/methodchain.php');
 ?>
 </body>
 </html>
