@@ -16,7 +16,8 @@
 // include('./abstract.php');
 // include('./interface.php');
 // include('./static.php');
-include('./latestatic.php');
+// include('./latestatic.php');
+include('./traits.php');
 ?>
 </body>
 </html>
