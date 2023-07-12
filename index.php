@@ -19,7 +19,8 @@
 // include('./latestatic.php');
 // include('./traits.php');
 // include('./methodoverriding.php');
-include('./typehinting.php');
+// include('./typehinting.php');
+include('./13namespaces/main.php');
 ?>
 </body>
 </html>

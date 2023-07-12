@@ -13,11 +13,6 @@ class Student {
     }
 }
 
-class library{
-    
-}
-
-
 $stu = new Student();
 $sch = new School();
 $names = $stu->getNames();
