@@ -14,7 +14,8 @@
 // include('./base.php');
 // include('./overriding.php');
 // include('./abstract.php');
-include('./interface.php');
+// include('./interface.php');
+include('./static.php');
 ?>
 </body>
 </html>
