@@ -1,7 +1,9 @@
 <?php
-function sum($v){
-    echo $v+1;
+function fruits(array $names){
+    foreach($names as $name){
+echo $name. "<br>";
+    }
 }
-
-sum(10);
+$test=["Apple","Orange","Banana"];
+fruits($test);
 ?>
