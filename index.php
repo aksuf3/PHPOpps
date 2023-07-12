@@ -22,7 +22,8 @@
 // include('./typehinting.php');
 // include('./13namespaces/main.php');
 // include('./16destructor/destructor.php');
-include('./19setmethod/student.php');
+// include('./19setmethod/student.php');
+include('./20callmethod/call.php');
 ?>
 </body>
 </html>
