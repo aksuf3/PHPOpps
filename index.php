@@ -22,7 +22,7 @@
 // include('./typehinting.php');
 // include('./13namespaces/main.php');
 // include('./16destructor/destructor.php');
-include('./17autoload/autoload.php');
+include('./18getmethod/get_method.php');
 ?>
 </body>
 </html>
