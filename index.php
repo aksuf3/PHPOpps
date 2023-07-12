@@ -21,7 +21,7 @@
 // include('./methodoverriding.php');
 // include('./typehinting.php');
 // include('./13namespaces/main.php');
-include('./14methodchain/methodchain.php');
+include('./16destructor/destructor.php');
 ?>
 </body>
 </html>
