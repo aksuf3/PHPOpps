@@ -28,7 +28,8 @@
 // include('./22issestmethod/issset.php');
 // include('./24toString/toString.php');
 // include('./25sleepmethod/sleepmethod.php');
-include('./26wakeupmethod/wakeup.php');
+// include('./26wakeupmethod/wakeup.php');
+include('./27clonemethod/clonemethod.php');
 ?>
 </body>
 </html>
