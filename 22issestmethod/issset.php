@@ -8,9 +8,9 @@ public function setName($fname,$lname){
 $this->first_name=$fname;
 $this->last_name=$lname;
 }
-public function __isset($property)
+public function __isset($name)
 {
-  echo isset($this->$property);
+  echo isset($this->detail[$name]);
 }
 }
 $test=new student();
