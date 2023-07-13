@@ -23,7 +23,9 @@
 // include('./13namespaces/main.php');
 // include('./16destructor/destructor.php');
 // include('./19setmethod/student.php');
-include('./20callmethod/call.php');
+// include('./20callmethod/call.php');
+// include('./21callstatic/callstatic.php');
+include('./22issestmethod/issset.php');
 ?>
 </body>
 </html>
