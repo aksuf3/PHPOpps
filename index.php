@@ -26,7 +26,8 @@
 // include('./20callmethod/call.php');
 // include('./21callstatic/callstatic.php');
 // include('./22issestmethod/issset.php');
-include('./24toString/toString.php');
+// include('./24toString/toString.php');
+include('./25sleepmethod/sleepmethod.php');
 ?>
 </body>
 </html>
