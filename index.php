@@ -30,7 +30,8 @@
 // include('./25sleepmethod/sleepmethod.php');
 // include('./26wakeupmethod/wakeup.php');
 // include('./27clonemethod/clonemethod.php');
-include('./28invokemethod/invoke.php');
+// include('./28invokemethod/invoke.php');
+include('./29constant/constant.php');
 ?>
 </body>
 </html>
