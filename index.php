@@ -29,7 +29,8 @@
 // include('./24toString/toString.php');
 // include('./25sleepmethod/sleepmethod.php');
 // include('./26wakeupmethod/wakeup.php');
-include('./27clonemethod/clonemethod.php');
+// include('./27clonemethod/clonemethod.php');
+include('./28invokemethod/invoke.php');
 ?>
 </body>
 </html>
