@@ -32,7 +32,11 @@
 // include('./27clonemethod/clonemethod.php');
 // include('./28invokemethod/invoke.php');
 // include('./29constant/constant.php');
-include('./30conditional/condition.php');
+// include('./30conditional/condition.php');
+// include('./31getfunction/');
+// include('./32MYSQLCrud/mysql.php');
+// include('./32MYSQLCrud/mysql.php');
+include('./33CRUDSQL/execute.php');
 ?>
 </body>
 </html>
