@@ -25,7 +25,8 @@
 // include('./19setmethod/student.php');
 // include('./20callmethod/call.php');
 // include('./21callstatic/callstatic.php');
-include('./22issestmethod/issset.php');
+// include('./22issestmethod/issset.php');
+include('./24toString/toString.php');
 ?>
 </body>
 </html>
